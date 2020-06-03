@@ -9,4 +9,6 @@ create new react native project
   
 yarn install or npm install
 
-  
+
+
+![Home](https://github.com/Erenner/react-native-marlve-app-redux/blob/master/desc/home.png)
