@@ -9,4 +9,9 @@ create new react native project
   
 yarn install or npm install
 
-  
+
+
+
+<img src="https://github.com/Erenner/react-native-marlve-app-redux/blob/master/desc/home.png" width="350" height="700">
+![Detail](https://raw.githubusercontent.com/Erenner/react-native-marlve-app-redux/master/desc/detail.png0)
+
