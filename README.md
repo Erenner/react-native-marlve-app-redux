@@ -11,6 +11,7 @@ yarn install or npm install
 
 
 
-![Home](https://github.com/Erenner/react-native-marlve-app-redux/blob/master/desc/home.png {width=350px height=700px})
+
+<img src="https://github.com/Erenner/react-native-marlve-app-redux/blob/master/desc/home.png" width="350" height="700">
 ![Detail](https://raw.githubusercontent.com/Erenner/react-native-marlve-app-redux/master/desc/detail.png0)
 
